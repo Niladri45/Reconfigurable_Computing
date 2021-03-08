@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Task_3.srcs/sources_1/imports/Assignment 3-20201110/rom_sum.vhd" \
+"../../../../Task_3.srcs/sim_1/imports/Assignment 3-20201110/rom_sum_tb.vhd" \
+
+# Do not sort compile order
+nosort

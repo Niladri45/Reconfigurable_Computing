@@ -1,0 +1,1 @@
+-wto "0a6e481d87cb4220b73ed821d107aa60" --incr --debug "typical" --relax --mt "8" -L "xil_defaultlib" -L "secureip" -L "xpm" --snapshot "gen_nand_test_behav" "xil_defaultlib.gen_nand_test" -log "elaborate.log" 

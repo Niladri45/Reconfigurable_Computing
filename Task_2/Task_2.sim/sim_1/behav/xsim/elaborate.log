@@ -1,0 +1,7 @@
+Vivado Simulator 2018.2
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: /opt/Xilinx/Vivado/2018.2/bin/unwrapped/lnx64.o/xelab -wto 9c95ca25e4a54b0e89fafc1fb798fa21 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip -L xpm --snapshot nandsrc_tb_behav xil_defaultlib.nandsrc_tb -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-665] expression has 4 elements ; formal a expects 16 [/home/user/Desktop/RCLAB/RC/RC_Labs/Task_2/Task_2.srcs/sim_1/new/nandtest.vhd:28]
+ERROR: [XSIM 43-3321] Static elaboration of top level VHDL design unit nandsrc_tb in library work failed.
